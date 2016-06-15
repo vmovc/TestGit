@@ -28,7 +28,7 @@ public class TopProdazh {
 	element=tel.get(i);
 //	i++;
 	//System.out.println(element.getText());
-	      System.out.println(tel.get(3).getText());
+	      System.out.println(tel.get(3).getText());dfvdfvd
 	}
 	
 //	}
